@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/tut/static/js/app.27db9e1f.chunk.js",
-    "app.js.map": "/tut/static/js/app.27db9e1f.chunk.js.map",
+    "app.js": "/tut/static/js/app.2f51267a.chunk.js",
+    "app.js.map": "/tut/static/js/app.2f51267a.chunk.js.map",
     "runtime~app.js": "/tut/static/js/runtime~app.53f897d2.js",
     "runtime~app.js.map": "/tut/static/js/runtime~app.53f897d2.js.map",
-    "static/js/2.7027106e.chunk.js": "/tut/static/js/2.7027106e.chunk.js",
-    "static/js/2.7027106e.chunk.js.map": "/tut/static/js/2.7027106e.chunk.js.map",
+    "static/js/2.6d98cf73.chunk.js": "/tut/static/js/2.6d98cf73.chunk.js",
+    "static/js/2.6d98cf73.chunk.js.map": "/tut/static/js/2.6d98cf73.chunk.js.map",
     "fonts/AntDesign.ttf": "/tut/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/tut/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/tut/./fonts/Feather.ttf",
@@ -16,6 +16,7 @@
     "fonts/Ionicons.ttf": "/tut/./fonts/Ionicons.ttf",
     "fonts/MaterialCommunityIcons.ttf": "/tut/./fonts/MaterialCommunityIcons.ttf",
     "fonts/MaterialIcons.ttf": "/tut/./fonts/MaterialIcons.ttf",
+    "fonts/PressStart2P-Regular.ttf": "/tut/./fonts/PressStart2P-Regular.ttf",
     "fonts/ProductSans-Bold.ttf": "/tut/./fonts/ProductSans-Bold.ttf",
     "fonts/ProductSans-Medium.ttf": "/tut/./fonts/ProductSans-Medium.ttf",
     "fonts/SimpleLineIcons.ttf": "/tut/./fonts/SimpleLineIcons.ttf",
@@ -28,7 +29,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.53f897d2.js",
-    "static/js/2.7027106e.chunk.js",
-    "static/js/app.27db9e1f.chunk.js"
+    "static/js/2.6d98cf73.chunk.js",
+    "static/js/app.2f51267a.chunk.js"
   ]
 }

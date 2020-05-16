@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "2cee79d1adba5e288257",
-    "url": "/tut/static/js/app.27db9e1f.chunk.js"
+    "revision": "df15b6f098bc8c0f5ade",
+    "url": "/tut/static/js/app.2f51267a.chunk.js"
   },
   {
     "revision": "f1fc1e91602f1ca832ab",
     "url": "/tut/static/js/runtime~app.53f897d2.js"
   },
   {
-    "revision": "d5547c31f6b5c6909498",
-    "url": "/tut/static/js/2.7027106e.chunk.js"
+    "revision": "618ed23fc5d0f56bae9f",
+    "url": "/tut/static/js/2.6d98cf73.chunk.js"
   },
   {
     "revision": "b2e0fc821c6886fb3940f85a3320003e",
@@ -22,6 +22,10 @@ self.__precacheManifest = [
   {
     "revision": "9c51beb79b8ab173abd924ce39178f0b",
     "url": "/tut/./fonts/ProductSans-Medium.ttf"
+  },
+  {
+    "revision": "2c404fd06cd67770807d242b2d2e5a16",
+    "url": "/tut/./fonts/PressStart2P-Regular.ttf"
   },
   {
     "revision": "3a2ba31570920eeb9b1d217cabe58315",
@@ -84,7 +88,7 @@ self.__precacheManifest = [
     "url": "/tut/favicon.ico"
   },
   {
-    "revision": "d13d88ae67c5fd61600d68c4e3eaebf5",
+    "revision": "0e4a1f64bacf31d2cbaf87404d4a160e",
     "url": "/tut/index.html"
   },
   {
