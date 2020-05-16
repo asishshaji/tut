@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/tut/static/js/app.d40973d2.chunk.js",
+    "app.js.map": "/tut/static/js/app.d40973d2.chunk.js.map",
+    "runtime~app.js": "/tut/static/js/runtime~app.53f897d2.js",
+    "runtime~app.js.map": "/tut/static/js/runtime~app.53f897d2.js.map",
+    "static/js/2.bea67fa7.chunk.js": "/tut/static/js/2.bea67fa7.chunk.js",
+    "static/js/2.bea67fa7.chunk.js.map": "/tut/static/js/2.bea67fa7.chunk.js.map",
+    "fonts/AntDesign.ttf": "/tut/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/tut/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/tut/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/tut/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/tut/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/tut/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Foundation.ttf": "/tut/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/tut/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/tut/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/tut/./fonts/MaterialIcons.ttf",
+    "fonts/ProductSans-Bold.ttf": "/tut/./fonts/ProductSans-Bold.ttf",
+    "fonts/ProductSans-Medium.ttf": "/tut/./fonts/ProductSans-Medium.ttf",
+    "fonts/SimpleLineIcons.ttf": "/tut/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/tut/favicon-16.png",
+    "favicon-32.png": "/tut/favicon-32.png",
+    "favicon.ico": "/tut/favicon.ico",
+    "index.html": "/tut/index.html",
+    "manifest.json": "/tut/manifest.json",
+    "serve.json": "/tut/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.53f897d2.js",
+    "static/js/2.bea67fa7.chunk.js",
+    "static/js/app.d40973d2.chunk.js"
+  ]
+}
