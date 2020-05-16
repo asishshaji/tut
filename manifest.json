@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Asish",
-  "short_name": "Asish",
+  "name": "UOI",
+  "short_name": "UOI",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
