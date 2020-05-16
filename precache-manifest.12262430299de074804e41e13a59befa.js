@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "bb1162caf56a5a0829c6",
-    "url": "/tut/static/js/app.bed4be2d.chunk.js"
+    "revision": "123c680fc02da0829e31",
+    "url": "/tut/static/js/app.e0edde55.chunk.js"
   },
   {
     "revision": "f1fc1e91602f1ca832ab",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/tut/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/tut/serve.json"
-  },
-  {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/tut/expo-service-worker.js"
+  },
+  {
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/tut/serve.json"
   },
   {
     "revision": "afd5733ac789ab1795f1ed7a26e1ecd3",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/tut/favicon.ico"
   },
   {
-    "revision": "d7d6f26c78a5d1a7c3c93de2c052c02b",
+    "revision": "1dd9982d3e410f5a63490e9ba85835f6",
     "url": "/tut/index.html"
   },
   {
